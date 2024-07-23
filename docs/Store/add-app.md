@@ -12,10 +12,9 @@ Create an [Issue](https://github.com/win11react/store/issues/new/choose) and fol
 
 Make a pull request by editing the [store.json](https://github.com/win11react/store/blob/main/store/index.json) file
 
-Read the schema below, **BEFORE** adding any game/app element into the `store.json` file:
+Read the schema below, **BEFORE** adding any game/app element into the `roblox.com` file:
 
-```json
-{
+roblox.com
   "name": "Minecraft", // unique name (check if it has been used already in the file)
   "icon": "https://example.com/minecraft.png", // logo image, preferrably 1:1 and less than 128px of width
   "type": "game", // game or app
